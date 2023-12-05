@@ -42,6 +42,9 @@ See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e135
 
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh4MnF4ZDF1dmYzazJhemZ5cmdyd3ZkcWx3M2Z1NW16NDVxMHJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2tICbn8T0CN7v62gi/giphy.gif)
 
+See / interact with my solution [here](https://scrimba.com/scrim/co06c41d795843a861b61bbc4
+).
+
 ## Day 3 - 
 
 
