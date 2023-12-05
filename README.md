@@ -10,8 +10,6 @@ In this repository I'm committing all of my solutions to this year's exercises. 
 Scrimba's JS Advent Calendar, containing all of the exercises, can be found [here](https://scrimba.com/learn/javascriptmas). 
 
 
-
-
 ## Day 1 - Countdown to Christmas
 - Get today's date (you only need the day)
 - Calculate remaining days
@@ -45,9 +43,21 @@ See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e135
 See / interact with my solution [here](https://scrimba.com/scrim/co06c41d795843a861b61bbc4
 ).
 
-## Day 3 - 
+## Day 3 - Divide Candy
+- Challenge:
+ * Some children have got some pieces of candy. 
+ * They want to eat as much candy as they can but each child must eat exactly the same amount. 
+ * Determine how many pieces of candy can be eaten altogether. 
+ * A piece of candy can not be split.
+ 
+ Example:
+ 
+ * Children: 3, Candies: 10
+ * Each of the 3 children can eat 3 candies. 
+ * Therefore, the total number of candies that can be eaten is 3*3 = 9, so the function calcTotalCandies should log out 9.
 
-
+See / interact with my solution [here](https://scrimba.com/scrim/cof6248c8af1b868bfb651fee
+).
 
 ## Day 4 - 
 
