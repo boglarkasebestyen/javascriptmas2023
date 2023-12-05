@@ -78,7 +78,7 @@ renderHourCountDown()
         
         <div class="container">
             <p id="countdown-displayhours" class="countdown-displayhours">-</p>
-            <p class="countdown-text">hours 'til Christmas!</p>
+            <p class="countdown-text">'til Christmas!</p>
         </div>
         
         <script src="index.js"></script>
