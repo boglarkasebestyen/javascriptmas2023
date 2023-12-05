@@ -20,7 +20,7 @@ Scrimba's JS Advent Calendar, containing all of the exercises, can be found [her
 	- display hours, minutes, seconds
 	- add a countdown for another festival, your birthday, or Christmas 2024.
 
-![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day1screenshot.jpg)
+![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day1.jpg)
 
 See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e1353f5c0e16aa
 ).
