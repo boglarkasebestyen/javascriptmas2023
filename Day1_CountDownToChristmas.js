@@ -11,6 +11,12 @@ function renderCountdown() {
     // - Calculate remaining days.
     let remainingDays = christmas - today
     console.log(`remaining days are: ${remainingDays}`)
+    
+    //when Christmas is over:
+    if (remainingDays < 0) {
+        return countdownDisplayDays.innerHTML = "No more..."
+    }
+    
     // - Display remaining days in countdownDisplay.
     return countdownDisplayDays.innerHTML = remainingDays 
 } 
@@ -35,13 +41,17 @@ const countdownDisplayHours = document.getElementById("countdown-displayhours")
             let remainingDaysInHours = remainingDays * 24
             let remainingMinutes = Math.floor((remainingMs % (1000 * 60 * 60)) / (1000 * 60))
             let remainingSeconds = Math.floor((remainingMs % (1000 * 60)) / 1000)
-            return countdownDisplayHours.innerHTML = remainingDaysInHours + "h " + remainingMinutes + "m " + remainingSeconds + "s "
-  
+            
         //when Christmas is over:
-        if (remainingDaysInHours < 0) {
-            clearInterval(remainingMs)
-            countdownDisplayHours.innerHTML = "Christmas is over!"
+        if (remainingDays < 0) {
+            clearInterval(remainingDaysInHours)
+            clearInterval(remainingMinutes)
+            clearInterval(remainingSeconds)
+            return countdownDisplayHours.innerHTML = "No more..."
           }
+          
+            return countdownDisplayHours.innerHTML = remainingDaysInHours + "h " + remainingMinutes + "m " + remainingSeconds + "s "
+            console.log("remaining days in hours is: " + remainingDaysInHours)  
         }, 1000)
     }
 
