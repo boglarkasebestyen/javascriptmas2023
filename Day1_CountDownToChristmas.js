@@ -119,6 +119,7 @@ body {
     color: var(--snow);
     padding: 1em 2em;
     border-radius: 5px;
+    margin: 5px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
 }
 
@@ -127,8 +128,10 @@ body {
     margin: 0;
 }
 
-.container {
-    margin: 5px;
+.countdown-displayhours {
+    font-size: 21px;
+    margin: 0;
 }
+
 
 /*
