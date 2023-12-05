@@ -129,9 +129,11 @@ body {
 }
 
 .countdown-displayhours {
+    width: 135px;
     font-size: 21px;
     margin: 0;
 }
+
 
 
 /*
