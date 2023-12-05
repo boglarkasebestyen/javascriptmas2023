@@ -20,14 +20,27 @@ Scrimba's JS Advent Calendar, containing all of the exercises, can be found [her
 	- display hours, minutes, seconds
 	- add a countdown for another festival, your birthday, or Christmas 2024.
 
-![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day1.jpg)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJmY2R2dGZjMDVwMHlpazFiNGFtcnNtdXVxeGRvNHZkaHplemc5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fEu6umybhQkOnnq0lX/giphy.gif)
 
 See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e1353f5c0e16aa
 ).
 
-## Day 2 - 
+## Day 2 - Style a Colorful Button
+- Gradient border
+	- use provided colors or choose your own
+	- gradient is 115 degrees 
+- Hover state
+	- gradient colors flip horizontally
+	- button grows slightly in size
+	- the text changes from gray to white
+- Center button on page
+- Hints and help: 
+	- gradient border effect can be accomplished using a wrapping div OR with the border-image property
+- What to research
+	- the linear-gradient function
+	- border-image and border-image-slice
 
-
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh4MnF4ZDF1dmYzazJhemZ5cmdyd3ZkcWx3M2Z1NW16NDVxMHJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2tICbn8T0CN7v62gi/giphy.gif)
 
 ## Day 3 - 
 
