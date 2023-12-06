@@ -59,7 +59,23 @@ See / interact with my solution [here](https://scrimba.com/scrim/co06c41d795843a
 See / interact with my solution [here](https://scrimba.com/scrim/cof6248c8af1b868bfb651fee
 ).
 
-## Day 4 - 
+## Day 4 - AI Christmas Joke Generator
+ - 🎄 Challenge:
+ 	- When clicked, the doors should open to reveal a festive joke.
+ - 🎁 Hints:
+ 	- Use an eventListener to listen for clicks
+ 	- The OpenAI API is the easiest API for this challenge but you can also try with HugginfFace.
+ 	- For OpenAI you will need to use the chat completions endpoint, which you can read about in the docs here: 
+    https://platform.openai.com/docs/api-reference/chat/create
+    - For HuggingFace, I would recommend using the "HuggingFaceH4/zephyr-7b-beta" model. Check out these docs to get you going: https://huggingface.co/docs/huggingface.js/inference/README, prompt design tips: https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+    - The HTML and CSS have been done for you, but feel free to make changes if needed.
+ 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ2cDVtOTdjZDVjZmVxN3IwaTB3dWpjeWR0azVsaWFkeGhwdzB3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8zeEpJ3efXktSsgIb/giphy-downsized-large.gif
+)
+
+See / interact with my solution [here](https://scrimba.com/scrim/cof47485b8279a7d97f137e48
+).
+
 
 
 ## Day 5 - 
