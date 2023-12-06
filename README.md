@@ -18,7 +18,7 @@ Scrimba's JS Advent Calendar, containing all of the exercises, can be found [her
 	- display hours, minutes, seconds
 	- add a countdown for another festival, your birthday, or Christmas 2024.
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJmY2R2dGZjMDVwMHlpazFiNGFtcnNtdXVxeGRvNHZkaHplemc5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fEu6umybhQkOnnq0lX/giphy.gif)
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJmY2R2dGZjMDVwMHlpazFiNGFtcnNtdXVxeGRvNHZkaHplemc5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fEu6umybhQkOnnq0lX/giphy.gif)
 
 See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e1353f5c0e16aa
 ).
@@ -38,7 +38,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e135
 	- the linear-gradient function
 	- border-image and border-image-slice
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh4MnF4ZDF1dmYzazJhemZ5cmdyd3ZkcWx3M2Z1NW16NDVxMHJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2tICbn8T0CN7v62gi/giphy.gif)
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh4MnF4ZDF1dmYzazJhemZ5cmdyd3ZkcWx3M2Z1NW16NDVxMHJseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2tICbn8T0CN7v62gi/giphy.gif)
 
 See / interact with my solution [here](https://scrimba.com/scrim/co06c41d795843a861b61bbc4
 ).
@@ -70,7 +70,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/cof6248c8af1b86
     - For HuggingFace, I would recommend using the "HuggingFaceH4/zephyr-7b-beta" model. Check out these docs to get you going: https://huggingface.co/docs/huggingface.js/inference/README, prompt design tips: https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
     - The HTML and CSS have been done for you, but feel free to make changes if needed.
  
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFqazdqdzQ5a2xjd2J4bGFsZmp4cjJzMHRmMjRlMjRvZnIwc2d4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wkv3t26B4bp6g7x0XD/giphy.gif)
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFqazdqdzQ5a2xjd2J4bGFsZmp4cjJzMHRmMjRlMjRvZnIwc2d4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wkv3t26B4bp6g7x0XD/giphy.gif)
 
 See / interact with my solution [here](https://scrimba.com/scrim/cof47485b8279a7d97f137e48
 ).
