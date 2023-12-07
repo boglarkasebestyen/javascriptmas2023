@@ -88,7 +88,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/cof47485b8279a7
 	- The CSS properties transform-style: preserve-3D and backface-visiblity will help you along the way
 
 	
-	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThzYjd4cDUyb3NlaG5wcnFsZWNxajVjbHprMnN3MWQ4ZjcwaTc2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hox3UNLT8Ru3ulgmVP/giphy.gif)
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThzYjd4cDUyb3NlaG5wcnFsZWNxajVjbHprMnN3MWQ4ZjcwaTc2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hox3UNLT8Ru3ulgmVP/giphy.gif)
 
 See / interact with my solution [here](https://scrimba.com/scrim/co74a41119a5ddda0ec437e9d
 ).
