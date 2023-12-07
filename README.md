@@ -94,8 +94,17 @@ See / interact with my solution [here](https://scrimba.com/scrim/co74a41119a5ddd
 ).
 	
 
+## Day 6 - Secret Santa
+- Challenge:
+	- Write a function to randomly assign each person in an array a "Secret Santa", who is someone else in the array
+	- No one should be assigned themselves as their own Secret Santa
 
-## Day 6 - 
+- Stretch goals:	
+	- Create a UI with a button to trigger your Secret Santa function and display the results
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM4YjNucng2NTF0Y3l2bWMzZjJ3emZ4NGxnZ240eTBqNXk5ZHVmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/44l0FT8RGsqkc1Nf9Z/giphy.gif)
+
+See / interact with my solution [here](https://scrimba.com/scrim/cod8b485ca21cd1bf73d21bf7).
 
 ## Day 7 - 
 
