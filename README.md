@@ -77,7 +77,19 @@ See / interact with my solution [here](https://scrimba.com/scrim/cof47485b8279a7
 
 
 
-## Day 5 - 
+## Day 5 - Jeopardy Card Flip
+- Card has two sides, and flips from front to back on hover
+- Match stules as closely as you can
+- CSS only
+- Don't worry about responsiveness
+- Hints:
+	- A card flip is essentially an element rotating 180 degrees in 3D space. Use .card class to create the flip effect, then show and hode the front and back content as the card flips
+	- Use the transition property for a smooth flip
+	- The CSS properties transform-style: preserve-3D and backface-visiblity will help you along the way
+
+See / interact with my solution [here](https://scrimba.com/scrim/co74a41119a5ddda0ec437e9d
+).
+	
 
 
 ## Day 6 - 

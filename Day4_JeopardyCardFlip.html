@@ -1,0 +1,85 @@
+<!-- 
+
+HTML:
+
+<!doctype html>
+<html>
+    <head>
+        <title></title>
+        <link href="https://fonts.cdnfonts.com/css/itc-korinna-std" rel="stylesheet">
+        <link rel="stylesheet" href="index.css">
+    </head>
+        <div class="card">
+            <div class="card-front">
+                <h2>THIS IS NOW A DEPRECATED HTML TAG, POPULAR IN THE EARLY DAYS OF THE INTERNET, MAGICALLY MADE TEXT SCROLL ACROSS SCREEN
+                </h2>
+            </div>
+            <div class="card-back">
+                <h2>WHAT IS THE MARQUEE TAG</h2>
+            </div>
+        </div>
+    </body>
+</html> -->
+
+body, html { 
+  margin: 50px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background: #000;
+}
+
+:root {
+  --jeopardy-blue: #060CE9;
+  --font-color-main: #fff;
+}
+
+h2 {
+  font-family: 'ITC Korinna Std', sans-serif;
+  padding: 100px;
+  color: var(--font-color-main);
+  text-shadow: #000 4px 4px 5px;
+  text-align: center;
+}
+
+.card {
+  position: relative;
+  width: 80vw; 
+  height: 60vh;
+  transform-style: preserve-3d;
+  transition: transform 0.6s ease;
+}
+
+.card-front,
+.card-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: var(--jeopardy-blue);
+  backface-visibility: hidden;
+}
+
+.card-front {
+  /* controlling stacking order */
+  z-index: 2;
+}
+
+.card-back {
+  /* rotating an element in 3D space  */
+  /* flips the element, and both the front and back sides of the element become visible */
+  transform: rotateY(180deg);
+  /* controlling stacking order */
+  /* helps to ensure the correct stacking order during the 3D rotation */
+  z-index: 1;
+}
+
+.card:hover {
+  transform: rotateY(180deg);
+}
+
+
+
+
+
