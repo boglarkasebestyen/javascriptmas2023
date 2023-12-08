@@ -102,11 +102,27 @@ See / interact with my solution [here](https://scrimba.com/scrim/co74a41119a5ddd
 - Stretch goals:	
 	- Create a UI with a button to trigger your Secret Santa function and display the results
 
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM4YjNucng2NTF0Y3l2bWMzZjJ3emZ4NGxnZ240eTBqNXk5ZHVmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/44l0FT8RGsqkc1Nf9Z/giphy.gif)
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDM4YjNucng2NTF0Y3l2bWMzZjJ3emZ4NGxnZ240eTBqNXk5ZHVmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/44l0FT8RGsqkc1Nf9Z/giphy.gif)
 
 See / interact with my solution [here](https://scrimba.com/scrim/cod8b485ca21cd1bf73d21bf7).
 
-## Day 7 - 
+## Day 7 - Xmas Present Wishlist
+- Requirements:
+	- Add items to the wishlist array
+	- Iterate over the wishlist array
+	- Display your wishlist on the page
+	- Style the wishlist with CSS
+
+- Stretch goals:
+	- Provide a way ti add / remove wishlist items
+	- Make each array item an object with the item's name, description, and a link to where it can be purchased
+
+	
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemE5bGp4bGRpZW04bm9yczNuNW00MDVnMjV2dWhmcWJ4dHR0djVlOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPkkjjiFDey02IwbvX/giphy.gif)
+		
+		
+See / interact with my solution [here](https://scrimba.com/scrim/cofd54f21b26385298179284c
+).
 
 ## Day 8 - 
 
