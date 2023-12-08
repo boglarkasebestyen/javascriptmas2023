@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/adventCalendar2023.jpg) 
 
 
-JavaScriptmas is a 24-day long, daily coding challenge in JavaScript, organized by the Norwegian online coding school, [Scrimba](https://scrimba.com/), starting from December 1st until December 24th. 
+JavaScriptmas is a 24-day long, daily coding challenge in JavaScript (with some HTML and CSS), organized by the Norwegian online coding school, [Scrimba](https://scrimba.com/), starting from December 1st until December 24th. 
 
 In this repository I'm committing all of my solutions to this year's exercises. 2021's submissions can be viewed [here](https://github.com/boglarkasebestyen/javascriptmas2021) (I skipped 2022).
 
