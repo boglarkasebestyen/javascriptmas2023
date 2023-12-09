@@ -65,7 +65,7 @@ html, body {
  */
     /* animation: barAnimation 5s linear 3s infinite; --> delay works only at the start 1x ands stops delaying because it's infinite */
     animation: barAnimation 5s linear infinite; 
-    background: linear-gradient(to left, var(--start) 0%, var(--middle) 50%, var(--finish) 100%);
+    background: linear-gradient(to left, var(--start), var(--middle), var(--finish));
     /* background-size: 300% 100%;  */
 }
 
