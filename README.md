@@ -124,7 +124,20 @@ See / interact with my solution [here](https://scrimba.com/scrim/cod8b485ca21cd1
 See / interact with my solution [here](https://scrimba.com/scrim/cofd54f21b26385298179284c
 ).
 
-## Day 8 - 
+## Day 8 - Animated Progress Bar
+- Build a CSS animation of a progress bar filling to 100%. The animation should run continuously, with a small pause when the bar is filled 100%
+- The progress begins red, turns blue at 50% full, and green when complete
+- CSS only!
+
+- Hints:
+	- It may help to think of the progress bar as two elements, one on top of another: an outer progress bar and an inner progress bar. How can you use the width of the inner progress bar to create the effect of the outer progress bar filling?
+	- Use the animation property and keyframes to complete this challenges. There's no way to pause an infinite animation between iterations, so to create the effect of a "pause" once the progress bar has filled to 100%, you may need an extra key frame
+
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmoxaGZ4cjA0M20yenR0amc4N2VlMzBtbm9jaXptaXc4cmxpbGg3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LjrzS22JWBngNI1mip/giphy.gif)
+		
+		
+See / interact with my solution [here](https://scrimba.com/scrim/co47d4ab3a11d576ca7561446
+).
 
 ## Day 9 - 
 

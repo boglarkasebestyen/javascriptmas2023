@@ -1,0 +1,101 @@
+/*
+HTML:
+
+<!doctype html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="progress-bar">
+                <div class="progress-status"></div>
+            </div>
+        </div>
+    </body>
+</html>
+
+CSS:
+*/
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --progressbar-bg: lightgrey;
+    --start: red;
+    --middle: blue;
+    --finish: green;
+} 
+
+.container { 
+    position: relative;
+    height: 100vh; 
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #CAF4F4;
+}
+
+/* outer progress bar */
+.progress-bar {
+    position: relative;
+    width: 400px;
+    height: 40px;
+    background: var(--progressbar-bg);
+    border-radius: 30px;
+    box-shadow: rgba(100, 60, 0, 0.55) 0px 4px 4px;
+    overflow: hidden;
+    z-index: 1;
+}
+
+/* inner progress bar */
+.progress-status {
+    position: absolute;
+    width: 100%; /* set to 100% to fill the outer progress bar */
+    height: 100%;
+    border-radius: 30px;
+    z-index: 2;
+    /* background: linear-gradient(to left, var(--start), var(--middle), var(--finish)); */
+    /* animation: name duration timing-function delay iteration-count direction fill-mode play-state;
+ */
+    /* animation: barAnimation 5s linear 3s infinite; --> delay works only at the start 1x ands stops delaying because it's infinite */
+    animation: barAnimation 5s linear infinite; 
+    background: linear-gradient(to left, var(--start) 0%, var(--middle) 50%, var(--finish) 100%);
+    /* background-size: 300% 100%;  */
+}
+
+
+@keyframes barAnimation {
+    0% {
+        width: 0%;
+        background: var(--start);
+    }
+    25% {
+        width: 25%;
+        background: var(--start);
+    }
+     45% {
+        width: 45%;
+        background: var(--middle);
+    }
+    65% {
+        width: 65%;
+        background: var(--middle);
+    }
+    85% {
+        width: 100%;
+        background: var(--finish);
+        /* transition, creates pause effect */
+    }
+    100% {
+        width: 100%;
+        background: var(--finish);
+    }
+}
+
+
