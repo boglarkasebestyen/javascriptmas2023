@@ -151,7 +151,14 @@ See / interact with my solution [here](https://scrimba.com/scrim/co47d4ab3a11d57
 See / interact with my solution [here](https://scrimba.com/scrim/co9b842f29d866570cc4935b1
 ).
 
-## Day 11 - 
+## Day 11 - Flag Challenge
+- Flag challenge: Switzerland
+- Aspect ratio: 1:1
+
+	![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day11.jpg)
+		
+		
+See / interact with my solution [here](https://scrimba.com/scrim/co24b480c8b1eaca176aa10a0).
 
 ## Day 12 - 
 
