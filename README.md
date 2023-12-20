@@ -141,7 +141,15 @@ See / interact with my solution [here](https://scrimba.com/scrim/co47d4ab3a11d57
 
 ## Day 9 - 
 
-## Day 10 
+## Day 10 - Rockin' Around
+- Add code inside of the playSong(id) function to make the Youtube Player play the new Youtube song
+
+
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzl6dWJ1eGIydHB2ZmkzbXdpeXdnZHFwazVrdzJjZTR2MnNhNzdqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jgFDnnPjxGAw3KIgLz/giphy.gif)
+		
+		
+See / interact with my solution [here](https://scrimba.com/scrim/co9b842f29d866570cc4935b1
+).
 
 ## Day 11 - 
 
