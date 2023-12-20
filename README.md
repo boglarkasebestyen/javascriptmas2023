@@ -160,7 +160,14 @@ See / interact with my solution [here](https://scrimba.com/scrim/co9b842f29d8665
 		
 See / interact with my solution [here](https://scrimba.com/scrim/co24b480c8b1eaca176aa10a0).
 
-## Day 12 - 
+## Day 12 - Santa's Gift Sorter
+- Help Santa by sorting the gifts array into alphabetical order and reverse alphabetical order
+
+	![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day12.jpg)
+		
+		
+See / interact with my solution [here](https://scrimba.com/scrim/co45f4b6a8f2bce0e1ec7fa08).
+
 
 ## Day 13 - 
 
