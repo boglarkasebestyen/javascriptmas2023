@@ -37,9 +37,6 @@ h1::after {
     text-align: center;
     border-radius: 10px;
     color: white;
-    
-/* initial state before animation starts */
-    content: " racoons"; 
     animation: textAnimation 5s infinite linear; 
     background: var(--bg-word);
 }
@@ -79,7 +76,7 @@ h1::after {
     }
     
     85% {
-        content: " foxes";
+        content: " racoons";
         background: var(--bg-word);  
         color: white;
         margin: 10px;
