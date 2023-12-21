@@ -188,8 +188,19 @@ See / interact with my solution [here](https://scrimba.com/scrim/co45f4b6a8f2bce
 		
 See / interact with my solution [here](https://scrimba.com/scrim/cof0d48c489feb6b7189077ab).
 
-## Day 14 - 
+## Day 14 - Lonely Elf
+- Challenge:
+    - Write a function to duplicate the elf when the button is clicked.
+    - See index.css for optional styling challenges:
+    	- limit the number of elves to 6 per row
+    	- make sure that the elves stay in the elf hangout zone, no matter how many there are
 
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW16cDZyMGpiMDM0dzM0d2tqZnE2ZzNjbDFreWR4dTVubmQycjFqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uPMFwxvyNFMHdN10E/giphy.gif
+)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co5004fd991913fc6f2152f45).
+    		
+    		
 ## Day 15 - 
 
 ## Day 16 - 
