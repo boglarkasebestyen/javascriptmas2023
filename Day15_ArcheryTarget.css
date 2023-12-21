@@ -1,0 +1,79 @@
+*/
+HTML:
+
+<!doctype html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="rings">
+            <div class="ring ring-1">
+                <div class="ring ring-2">
+                    <div class="ring ring-3">
+                        <div class="ring-bullseye"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+/*
+
+:root {
+    --black: #282828; 
+    --blue: #2892f9; 
+    --red: #fb2f27;
+    --yellow: #fdfe29;
+}
+
+.rings {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+.ring-1 {
+    display: flex;
+    justify-content: center;
+    /* position: inherit; */
+    background: var(--black);
+    width: 450px;
+    height: 450px;
+    border-radius: 400px;
+}
+
+.ring-2 {
+    display: flex;
+    justify-content: center;
+    position: inherit;
+    margin-top: 50px;
+    background: var(--blue);
+    width: 350px;
+    height: 350px;
+    border-radius: 300px;
+}
+
+.ring-3 {
+    background: var(--red);
+    display: flex;
+    justify-content: center;
+    position: inherit;
+    margin-top: 50px;
+    width: 250px;
+    height: 250px;
+    border-radius: 300px;
+}
+
+.ring-bullseye {
+    background: var(--yellow);
+    display: flex;
+    justify-content: center;
+    position: inherit;
+    margin-top: 70px;
+    width: 100px;
+    height: 100px;
+    border-radius: 300px;
+}
