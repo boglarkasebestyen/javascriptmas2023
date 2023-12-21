@@ -182,6 +182,12 @@ See / interact with my solution [here](https://scrimba.com/scrim/co45f4b6a8f2bce
 	- Add more dietary options.
 	- Show recipes when the meal has been selected.
 
+	
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g3bHY5bjBocWswcXF6Y2s0aXZvY3djYzc3NWIwdXdkampvazY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gA8G8CHtulaOWoY3Bj/giphy.gif)
+		
+		
+See / interact with my solution [here](https://scrimba.com/scrim/cof0d48c489feb6b7189077ab).
+
 ## Day 14 - 
 
 ## Day 15 - 
