@@ -169,7 +169,18 @@ See / interact with my solution [here](https://scrimba.com/scrim/co24b480c8b1eac
 See / interact with my solution [here](https://scrimba.com/scrim/co45f4b6a8f2bce0e1ec7fa08).
 
 
-## Day 13 - 
+## Day 13 - Christmas Dinner Picker
+- Task:
+	- Write the code to help a user choose the perfect Christmas dinner idea based on the number of people attending.
+	- Include a checkbox for the user to specify the meal should be vegetarian-friendly.
+	- Dinner suggestions (or choose your own!):
+		- Vegetarian: Winter Squash Risotto
+		- 4 people or less: Ham
+		- 5+ people: Turkey
+
+- Stretch goals:
+	- Add more dietary options.
+	- Show recipes when the meal has been selected.
 
 ## Day 14 - 
 
