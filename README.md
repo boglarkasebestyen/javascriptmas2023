@@ -215,7 +215,20 @@ See / interact with my solution [here](https://scrimba.com/scrim/co5004fd991913f
 See / interact with my solution [here](https://scrimba.com/scrim/coa2b4c239e25f3b33449e8ef).
 
 
-## Day 16 - 
+## Day 16 - Naughty list, nice list
+- Challenge: 
+  - Write the JavaScript to sort the people in sorteesArr into the naughty and nice lists, according to whether they have been good or not. Then display the names in the relevant place in the DOM.
+
+- Stretch goals:
+  - Add the option to add new names to the sorteesArr.
+  - Make it possible to switch people to the other list.
+
+	  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczY0a3dsYnhhcG51aXd3MmZuaGdlN3E3eDVid2c2aDk5czNsZDRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w6izoJwJUve7K2oVwX/giphy.gif
+)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co343438aa6675887490d5df9).
+
+
 ## Day 17 - 
 
 ## Day 18 - 
