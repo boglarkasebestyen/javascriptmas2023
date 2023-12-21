@@ -1,0 +1,99 @@
+*/
+
+HTML:
+
+<!doctype html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>I love</h1>
+        <div>
+    </body>
+</html>
+
+/*
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg-word: #5134ff;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+h1::after {
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    
+/* initial state before animation starts */
+    content: " racoons"; 
+    animation: textAnimation 5s infinite linear; 
+    background: var(--bg-word);
+}
+
+       
+@keyframes textAnimation {
+    0% {
+        content: " opossums";
+        background: var(--bg-word);
+        color: white;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    25% {
+        content: " coyotes";
+        background: var(--bg-word);
+        color: white;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    45% {
+        content: " wombats";
+        background: var(--bg-word);
+        color: white;
+        margin: 10px;
+        padding: 10px;
+    }
+
+    65% {
+        content: " foxes";
+        background: var(--bg-word);
+        color: white;
+        margin: 10px;
+        padding: 10px;
+    }
+    
+    85% {
+        content: " foxes";
+        background: var(--bg-word);  
+        color: white;
+        margin: 10px;
+        padding: 10px;
+    }
+    
+    100% {
+        content: " axolotles"; 
+        background: var(--bg-word);
+        color: white;
+        margin: 10px;
+        padding: 10px;
+    }
+}
+
+
+

@@ -229,7 +229,20 @@ See / interact with my solution [here](https://scrimba.com/scrim/coa2b4c239e25f3
 See / interact with my solution [here](https://scrimba.com/scrim/co343438aa6675887490d5df9).
 
 
-## Day 17 - 
+## Day 17 - Word Carousel
+- Match styles
+- Personalize - display 4 things you love
+- Words should rotate in an infinite loop
+- No JavaScript!
+
+- Hints:
+	- You can define the steps of an animation in keyframes using percentages, with 0% being the beginning of the animation and 100% being the end of the animation!
+	- Think about how you can use a pseudo element's content property to swap words
+
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdreG9pcHFyamJ2ZmkycXNuamNsMzFkMGwwbHV6dGVnaXg4N29sdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l5Okg49LcEPM6ZRQ4N/giphy.gif
+)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co9374baf92ff71dd05ae6c4e).
 
 ## Day 18 - 
 
