@@ -276,7 +276,13 @@ See / interact with my solution [here](https://scrimba.com/scrim/coa1a4a8f893766
 			
 See / interact with my solution [here](https://scrimba.com/scrim/co6064a2685fed802a95a77ab).
 
-## Day 22 - 
+## Day 22 - Gift app
+- Make it so that the data doesn't disappear on reload.
+- Use localStorage
+
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ2Zmlxbnc0Yzl0aGlsY3VuOGE0cml6ZzI3ZXl0dHM3b2ttNHZkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uZVgENfnbb4wINSw2r/giphy.gif)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co6304a3a91da68c7170efe0d).
 
 ## Day 23 - 
 
