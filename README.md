@@ -195,8 +195,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/cof0d48c489feb6
     	- limit the number of elves to 6 per row
     	- make sure that the elves stay in the elf hangout zone, no matter how many there are
 
-		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW16cDZyMGpiMDM0dzM0d2tqZnE2ZzNjbDFreWR4dTVubmQycjFqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uPMFwxvyNFMHdN10E/giphy.gif
-)
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW16cDZyMGpiMDM0dzM0d2tqZnE2ZzNjbDFreWR4dTVubmQycjFqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2uPMFwxvyNFMHdN10E/giphy.gif)
 			
 See / interact with my solution [here](https://scrimba.com/scrim/co5004fd991913fc6f2152f45).
     		
@@ -209,8 +208,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co5004fd991913f
 - Hint: these are four circles layered on top of one another, and each circle is centered within a larger
 
 
-![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day15.jpg
-)
+![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day15.jpg)
 			
 See / interact with my solution [here](https://scrimba.com/scrim/coa2b4c239e25f3b33449e8ef).
 
@@ -223,8 +221,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/coa2b4c239e25f3
   - Add the option to add new names to the sorteesArr.
   - Make it possible to switch people to the other list.
 
-	  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczY0a3dsYnhhcG51aXd3MmZuaGdlN3E3eDVid2c2aDk5czNsZDRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w6izoJwJUve7K2oVwX/giphy.gif
-)
+	  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczY0a3dsYnhhcG51aXd3MmZuaGdlN3E3eDVid2c2aDk5czNsZDRtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w6izoJwJUve7K2oVwX/giphy.gif)
 			
 See / interact with my solution [here](https://scrimba.com/scrim/co343438aa6675887490d5df9).
 
@@ -239,8 +236,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co343438aa66758
 	- You can define the steps of an animation in keyframes using percentages, with 0% being the beginning of the animation and 100% being the end of the animation!
 	- Think about how you can use a pseudo element's content property to swap words
 
-	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo5ZndvajViMXNpcnZibjRmbHJjY3JiZTA3aTBoamR5eWs3Zmk4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0IemcOuBPZNn6PuP8/giphy.gif
-)
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo5ZndvajViMXNpcnZibjRmbHJjY3JiZTA3aTBoamR5eWs3Zmk4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0IemcOuBPZNn6PuP8/giphy.gif)
 			
 See / interact with my solution [here](https://scrimba.com/scrim/co9374baf92ff71dd05ae6c4e).
 
@@ -249,13 +245,18 @@ See / interact with my solution [here](https://scrimba.com/scrim/co9374baf92ff71
 ## Day 19 - Debug Jingle Words
 - There are loads of problems in JS! Find them and fix them!
 
-	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsMXVhMmd5M2FiN3l3bjI2N2lwam40Zms0Mmo1dHd1dm4wbzB2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tN1t4Cjt8O61gpbTV0/giphy.gif
-)
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsMXVhMmd5M2FiN3l3bjI2N2lwam40Zms0Mmo1dHd1dm4wbzB2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tN1t4Cjt8O61gpbTV0/giphy.gif)
 			
-See / interact with my solution [here](https://scrimba.com/scrim/co87f4dfba56f1b12f6e7185f
-).
+See / interact with my solution [here](https://scrimba.com/scrim/co87f4dfba56f1b12f6e7185f).
 
-## Day 20 -
+## Day 20 - Save Santa!
+- Requirements:
+	- Save Santa by removing the lions, tigers, bears, and other nefarious creatures from the deeply-nested array.
+	- Easy mode: you're allowed to flatten the array
+
+	![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day20.jpg)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/coa1a4a8f89376693fd8e5409).
 
 ## Day 21 - 
 
