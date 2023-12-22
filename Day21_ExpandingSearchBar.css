@@ -1,23 +1,23 @@
-<!-- <!DOCTYPE html>
+/*<!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Title Here</title>
-    <link rel="stylesheet" href="index.css">
-</head>
-<body>
-    <div class="container">
-        <label for="search-field" class="visually-hidden">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Your Title Here</title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="container">
+            <label for="search-field" class="visually-hidden">Search:</label>
             <input type="search" 
                 class="search-bar" 
                 id="search-field"
                 placeholder="Search..."
             />
-        </label>
-    </div>
-</body>
-</html> -->
+        </div>
+    </body>
+</html>*/
+
 
 html, body {
     margin: 0;
