@@ -246,7 +246,14 @@ See / interact with my solution [here](https://scrimba.com/scrim/co9374baf92ff71
 
 ## Day 18 - 
 
-## Day 19 - 
+## Day 19 - Debug Jingle Words
+- There are loads of problems in JS! Find them and fix them!
+
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsMXVhMmd5M2FiN3l3bjI2N2lwam40Zms0Mmo1dHd1dm4wbzB2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tN1t4Cjt8O61gpbTV0/giphy.gif
+)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co87f4dfba56f1b12f6e7185f
+).
 
 ## Day 20 -
 
