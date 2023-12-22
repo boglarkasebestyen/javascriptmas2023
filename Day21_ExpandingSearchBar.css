@@ -1,0 +1,74 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Title Here</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <label for="search-field" class="visually-hidden">
+            <input type="search" 
+                class="search-bar" 
+                id="search-field"
+                placeholder="Search..."
+            />
+        </label>
+    </div>
+</body>
+</html> -->
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --search-border: #bbb;
+    --search-focus-border: #3a71ca;
+}
+
+.container {
+    /* background: yellow; */
+    display: flex;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 50px;
+}
+
+.search-bar {
+    border: solid #d4d4d4;
+    border-radius: 10px;
+    border-width: 2px;
+    padding: 10px;
+    width: 180px;
+    height: 50px;
+    transition: width 1s ease-in-out; 
+}
+
+.search-bar:focus {
+    width: 300px; 
+}
+
+.search-bar:focus::placeholder {
+    color: transparent;
+}
+
+/* visually hide the label, but keep it accessible to screen readers */
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+
+
+
+

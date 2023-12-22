@@ -23,7 +23,7 @@ Scrimba's JS Advent Calendar, containing all of the exercises, can be found [her
 See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e1353f5c0e16aa
 ).
 
-## Day 2 - Style a Colorful Button
+## Day 2 - Style a colorful button
 - Gradient border
 	- use provided colors or choose your own
 	- gradient is 115 degrees 
@@ -43,7 +43,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co41e49e392e135
 See / interact with my solution [here](https://scrimba.com/scrim/co06c41d795843a861b61bbc4
 ).
 
-## Day 3 - Divide Candy
+## Day 3 - Divide candy
 - Challenge:
 	- Some children have got some pieces of candy. 
 	- They want to eat as much candy as they can but each child must eat exactly the same amount. 
@@ -59,7 +59,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co06c41d795843a
 See / interact with my solution [here](https://scrimba.com/scrim/cof6248c8af1b868bfb651fee
 ).
 
-## Day 4 - AI Christmas Joke Generator
+## Day 4 - AI Christmas joke generator
  - 🎄 Challenge:
  	- When clicked, the doors should open to reveal a festive joke.
  - 🎁 Hints:
@@ -77,7 +77,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/cof47485b8279a7
 
 
 
-## Day 5 - Jeopardy Card Flip
+## Day 5 - Jeopardy card flip
 - Card has two sides, and flips from front to back on hover
 - Match stules as closely as you can
 - CSS only
@@ -106,7 +106,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co74a41119a5ddd
 
 See / interact with my solution [here](https://scrimba.com/scrim/cod8b485ca21cd1bf73d21bf7).
 
-## Day 7 - Xmas Present Wishlist
+## Day 7 - Xmas present wishlist
 - Requirements:
 	- Add items to the wishlist array
 	- Iterate over the wishlist array
@@ -124,7 +124,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/cod8b485ca21cd1
 See / interact with my solution [here](https://scrimba.com/scrim/cofd54f21b26385298179284c
 ).
 
-## Day 8 - Animated Progress Bar
+## Day 8 - Animated progress bar
 - Build a CSS animation of a progress bar filling to 100%. The animation should run continuously, with a small pause when the bar is filled 100%
 - The progress begins red, turns blue at 50% full, and green when complete
 - CSS only!
@@ -141,7 +141,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co47d4ab3a11d57
 
 ## Day 9 - 
 
-## Day 10 - Rockin' Around
+## Day 10 - Rockin' around
 - Add code inside of the playSong(id) function to make the Youtube Player play the new Youtube song
 
 
@@ -151,7 +151,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co47d4ab3a11d57
 See / interact with my solution [here](https://scrimba.com/scrim/co9b842f29d866570cc4935b1
 ).
 
-## Day 11 - Flag Challenge
+## Day 11 - Flag challenge
 - Flag challenge: Switzerland
 - Aspect ratio: 1:1
 
@@ -160,7 +160,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co9b842f29d8665
 		
 See / interact with my solution [here](https://scrimba.com/scrim/co24b480c8b1eaca176aa10a0).
 
-## Day 12 - Santa's Gift Sorter
+## Day 12 - Santa's gift sorter
 - Help Santa by sorting the gifts array into alphabetical order and reverse alphabetical order
 
 	![](https://raw.githubusercontent.com/boglarkasebestyen/javascriptmas2023/main/day12.jpg)
@@ -169,7 +169,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co24b480c8b1eac
 See / interact with my solution [here](https://scrimba.com/scrim/co45f4b6a8f2bce0e1ec7fa08).
 
 
-## Day 13 - Christmas Dinner Picker
+## Day 13 - Christmas dinner picker
 - Task:
 	- Write the code to help a user choose the perfect Christmas dinner idea based on the number of people attending.
 	- Include a checkbox for the user to specify the meal should be vegetarian-friendly.
@@ -188,7 +188,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co45f4b6a8f2bce
 		
 See / interact with my solution [here](https://scrimba.com/scrim/cof0d48c489feb6b7189077ab).
 
-## Day 14 - Lonely Elf
+## Day 14 - Lonely elf
 - Challenge:
     - Write a function to duplicate the elf when the button is clicked.
     - See index.css for optional styling challenges:
@@ -200,7 +200,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/cof0d48c489feb6
 See / interact with my solution [here](https://scrimba.com/scrim/co5004fd991913fc6f2152f45).
     		
     		
-## Day 15 - Archery Target
+## Day 15 - Archery target
 - Match the example
 - Center on the page
 - No need to make responsive
@@ -226,7 +226,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/coa2b4c239e25f3
 See / interact with my solution [here](https://scrimba.com/scrim/co343438aa6675887490d5df9).
 
 
-## Day 17 - Word Carousel
+## Day 17 - Word carousel
 - Match styles
 - Personalize - display 4 things you love
 - Words should rotate in an infinite loop
@@ -242,7 +242,7 @@ See / interact with my solution [here](https://scrimba.com/scrim/co9374baf92ff71
 
 ## Day 18 - 
 
-## Day 19 - Debug Jingle Words
+## Day 19 - Debug jingle words
 - There are loads of problems in JS! Find them and fix them!
 
 	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRsMXVhMmd5M2FiN3l3bjI2N2lwam40Zms0Mmo1dHd1dm4wbzB2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tN1t4Cjt8O61gpbTV0/giphy.gif)
@@ -258,7 +258,23 @@ See / interact with my solution [here](https://scrimba.com/scrim/co87f4dfba56f1b
 			
 See / interact with my solution [here](https://scrimba.com/scrim/coa1a4a8f89376693fd8e5409).
 
-## Day 21 - 
+## Day 21 - Expanding search bar
+- Requirements
+	- Search input
+	- Takes up ⅓ of the width of its container
+	- When the user clicks into the search bar:
+		- Input grows to entire width of its parent container with smooth transition
+		- Shrinks back to original size when user clicks away
+		- Blue border
+- Bonus: placeholder text is not visible when user clicks inside the search bar
+
+- Accessibility
+	- For accessibility, form inputs should always have a label. Create a label with a valid for attribute
+	- Look up some CSS rules (no need to write it yourself) that hide the search input's label visually but keeps it accessible to screen readers.
+
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhmd3ZkZzRodWRkbGNrc3d5eW1wZjNtbXF5ZHBkc2QybHZsdmd6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K6U2tbasqYeb2mtbgh/giphy.gif)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co6064a2685fed802a95a77ab).
 
 ## Day 22 - 
 
