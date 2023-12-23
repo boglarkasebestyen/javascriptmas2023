@@ -299,4 +299,14 @@ See / interact with my solution [here](https://scrimba.com/scrim/co6304a3a91da68
 			
 See / interact with my solution [here](https://scrimba.com/scrim/co9e2431289fcee8b11e9ef66).
 
-## Day 24 - 
+## Day 24 - Christmas tree lights
+
+- 🎄 Challenge: 
+	- The Christmas tree's lights should switch on and off every 800 miliseconds.
+- Stretch Goal:
+	- Make the blue and red lights flash alternately.
+
+	
+	![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzOWZwZDI3YmthdWttbGF4NWNqOGVrYmNrZmtnbG96YThxbHZ2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99Wm8tn57twvDFk2xW/giphy.gif)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co803473dad7bbb1c6f7e96f8).
