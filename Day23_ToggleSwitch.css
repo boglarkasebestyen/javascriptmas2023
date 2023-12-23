@@ -1,0 +1,66 @@
+<!-- <!doctype html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <div class="toggle-wrap">
+            <label for="toggle">
+                <input type="checkbox" id="toggle" class="toggle-checkbox"></input>
+                <div class="toggle-switch"></div>
+            </label>
+        </div>
+    </body>
+</html>
+ -->
+
+ html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #C6C9DC;
+}
+
+:root {
+    --toggle-switch-bg: #232428;
+    --toggle-border: #232428;
+    --toggle-bg: #fff;
+}
+
+.toggle-wrap {
+    position: relative;
+    border: solid var(--toggle-border);
+    border-radius: 60px;
+    height: 70px;
+    width: 180px;
+    background: var(--toggle-bg);
+}
+
+.toggle-checkbox {
+    height: 60px;
+    width: 50px;
+    margin: 0;
+    position: absolute;
+    z-index: 1;
+    /* optionally hide the checkbox */
+    opacity: 0;  
+}
+
+.toggle-switch {
+    background: var(--toggle-switch-bg);
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+    position: absolute;
+    top: 5px;
+    left: 6px;
+    transition: left 1s ease-in-out;
+}
+
+.toggle-checkbox:checked + .toggle-switch{
+    left: 115px;
+}

@@ -284,6 +284,19 @@ See / interact with my solution [here](https://scrimba.com/scrim/co6064a2685fed8
 			
 See / interact with my solution [here](https://scrimba.com/scrim/co6304a3a91da68c7170efe0d).
 
-## Day 23 - 
+## Day 23 - Toggle switch
+- Toggle Button
+	- On click, toggle switch moves from one side to another
+	- Cursor becomes a pointer
+	- Match styles
+	- No JavaScript!
+
+- Hints:
+	- If you hide the checkbox, you'll still be able to style and toggle back and forth between input:checked and input:unchecked pseudo classes by clicking on the checkbox label
+	- Use a sibling selector to style the toggle-switch class when the input is :checked or :unchecked
+
+		![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWgxYzBybXY2OHluOHFydjlubDExZmEzbG85Z2Q3dnlncHBhMWJ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EMEjnaxMg9Xllu7JXF/giphy.gif)
+			
+See / interact with my solution [here](https://scrimba.com/scrim/co9e2431289fcee8b11e9ef66).
 
 ## Day 24 - 
